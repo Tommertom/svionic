@@ -19,7 +19,10 @@
 			</picture>
 		</div>
 
-		to your new<br />SvelteKit app
+		<ion-chip>sadasds</ion-chip>
+
+		<ion-button on:click={() => console.log('asdsadsads')}>sadsasd</ion-button>
+		sads to your new<br />SvelteKit app
 	</h1>
 
 	<h2>
